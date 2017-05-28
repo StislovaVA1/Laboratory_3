@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Stislova V.A. Kek
+=======
 Stislova V.A.
 SKS-15
+>>>>>>> 5260ac6431689c4df1311b0958294b3ae38ec3c2
